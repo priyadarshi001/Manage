@@ -1,4 +1,5 @@
 import Features from './component/Features';
+import Footer from './component/Footer';
 import Hero from './component/Hero';
 import Navbar from './component/Navbar';
 import Testimonials from './component/Testimonials';
@@ -11,6 +12,7 @@ function App() {
       <Hero />
       <Features />
       <Testimonials />
+      <Footer />
     </div>
   );
 }

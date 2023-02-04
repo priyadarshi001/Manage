@@ -2,7 +2,7 @@ import React from "react";
 
 export default function Features() {
   return (
-    <section id="#features">
+    <section id="About">
       <div className="container flex flex-col p-4 mx-auto space-y-12 md:space-y-0 md:flex-row">
         {/** Left Side */}
         <div className="flex flex-col space-y-12 md:w-1/2">

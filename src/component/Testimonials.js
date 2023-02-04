@@ -5,7 +5,7 @@ import richard from "../assets/avatar-richard.png";
 
 export default function Testimonials() {
   return (
-    <section id="#testimonials">
+    <section id="Testimonials">
       <div className="max-w-6xl px-5 mx-auto mt-32 text-center">
         <h2 className="text-4xl font-bold text-center">
           What's Different About Manage?

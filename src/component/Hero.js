@@ -3,7 +3,7 @@ import Illustration from "../assets/illustration-intro.svg";
 
 export default function Hero() {
   return (
-    <section id="#hero">
+    <section id="Home">
       <div className="container flex flex-col-reverse items-center px-6 mx-auto mt-10 space-y-0 md:space-y-0 md:flex-row">
         <div className="flex flex-col mb-32 space-y-12 md:w-1/2">
           <h1 className="max-w-md text-3xl font-bold text-center md:text-5xl md:text-left">
